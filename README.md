@@ -5,7 +5,7 @@
 </p>
 <div align="center">
   
-🔭 Eu sou desenvolvedor Frot-end e atualmente trabalho com Java
+🔭 Eu sou desenvolvedor Frot-end e Academico em Analise e Desenvolvimento de Sistema
 
 
 🌱 Também estou estudando typescript e angular
