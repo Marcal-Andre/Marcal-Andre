@@ -5,15 +5,16 @@
 </p>
 
 <div align="center">
-  
-🔭 Eu sou desenvolvedor Back-end e atualmente trabalho com Java
-
-
-🌱 Também estou estudando typescript e angular
-
-💬 Sou entusiasta no desenvolvimento Java para APIs
-
 😄 Pronomes: Ele/Dele
+  
+🔭 Eu sou desenvolvedor Front-end
+
+📚 Estou cursando Analise e Desenvolvimento de Sistema
+
+🌱 Também estou estudando IA e UI/UX Design para melhor me capacitar
+
+💬 Tenho o objetivo de futuramente atuar como full stack e ser mais útil na minha equipe
+
 </div>
 
   <div style="display: inline_block" align="center">
