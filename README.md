@@ -4,7 +4,6 @@
   </a>
 </p>
 
-nn
 <div align="left">
 😄 Pronomes: Ele/Dele <br>
   
