@@ -54,6 +54,7 @@
     <img align="center" alt="AI" height="40" width="40" src="https://github.com/LelouchFR/skill-icons/raw/main/assets/illustrator.svg">
     <img align="center" alt="Bootstrap" height="40" width="40" src="https://github.com/LelouchFR/skill-icons/raw/main/assets/bootstrap.svg">
     <img align="center" alt="Python" height="40" width="40" src="https://github.com/LelouchFR/skill-icons/raw/main/assets/python-auto.svg">
+    <img align="center" alt="Figma" height="40" width="40" src="https://github.com/LelouchFR/skill-icons/raw/main/assets/figma-auto.svg">
        
             
 
