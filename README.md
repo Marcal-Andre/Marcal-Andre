@@ -16,7 +16,7 @@
 
 💬 Tenho o objetivo de futuramente atuar como full stack e ser mais útil na minha equipe.
 <br>
-<br>
+
 </div>
 
 <div align="left">
