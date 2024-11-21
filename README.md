@@ -12,9 +12,9 @@
 
 📚 Estou cursando Analise e Desenvolvimento de Sistema.
 
-🌱 Estou estudando IA e UI/UX Design para aperfeicoamento das minhas Skills..
+🌱 Estou estudando IA e UI/UX Design para aperfeicoamento das minhas Skills.
 
-💬 Tenho o objetivo de futuramente atuar como full stack e ser mais útil na minha equipe..
+💬 Tenho o objetivo de futuramente atuar como full stack e ser mais útil na minha equipe.
 
 </div>
 
