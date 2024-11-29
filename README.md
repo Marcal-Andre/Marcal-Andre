@@ -14,7 +14,7 @@
 
 🌱 Estou estudando Web Design e UI/UX Design para conseguir ter uma boa desenvoltura com meus projetos.
 
-💬 E Tenho o objetivo de futuramente atuar como full stack e ser mais útil na minha equipe levando exelentes resultador para o cliente final.
+💬 E como objetivo futuramente atuar como full stack e ser mais útil na minha equipe levando exelentes resultador para o cliente final.
 
 </div>
 
