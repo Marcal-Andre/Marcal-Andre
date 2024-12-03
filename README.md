@@ -6,13 +6,13 @@
 
 
 <div align="left">
-😄 Pronomes: Ele/Dele..
+😄 Pronomes: Ele/Dele.
   
 🔭 Eu sou desenvolvedor Front-end.
 
 📚 Estou cursando Analise e Desenvolvimento de Sistema.
 
-🌱 Estou estudando Web Design e UI/UX Design para conseguir ter uma boa desenvoltura com meus projetos.
+🌱 Estou estudando Web Design e UI/UX Design para uma boa desenvoltura com meus projeto.
 
 💬 E como objetivo futuramente atuar como full stack e ser mais útil na minha equipe levando exelentes resultador para o cliente final.
 
