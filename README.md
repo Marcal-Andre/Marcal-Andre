@@ -53,6 +53,7 @@
   <img align="center" alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Git" height="40" width="40" src="https://github.com/LelouchFR/skill-icons/raw/main/assets/git-auto.svg">
    <img align="center" alt="PHP" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PHP-Dark.svg">
+   <svg width="258" height="256" viewBox="0 0 258 256" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
  <img align="center" alt="MySQL" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Dark.svg">
     <img align="center" alt="Bootstrap" height="40" width="40" src="https://github.com/LelouchFR/skill-icons/raw/main/assets/bootstrap.svg">
     <img align="center" alt="Python" height="40" width="40" src="https://github.com/LelouchFR/skill-icons/raw/main/assets/python-auto.svg">
