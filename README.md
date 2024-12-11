@@ -5,7 +5,7 @@
 </p>
 
 
-<div align="left">
+<div align="center">
 😄 Pronomes: Ele/Dele. <br>
   
 🔭 Eu sou desenvolvedor Front-end.
