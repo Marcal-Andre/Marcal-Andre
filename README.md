@@ -8,7 +8,7 @@
 <div align="left">
 😄 Pronomes: Ele/Dele. 
   
-🔭 Eu sou desenvolvedor Front-end.
+🔭 Eu sou desenvolvedor Front-end..
 
 📚 Estou cursando Analise e Desenvolvimento de Sistema.
 
