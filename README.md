@@ -10,7 +10,7 @@
   
 🔭 Eu sou desenvolvedor Front-end..
 
-📚 Estou cursando Analise e Desenvolvimento de Sistema.
+📚 Estou cursando Analise e Desenvolvimento de Sistema..
 
 🌱 Estou estudando Web Design e UI/UX Design para uma boa desenvoltura.
 
