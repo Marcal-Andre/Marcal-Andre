@@ -17,7 +17,7 @@
 💬 E como objetivo futuramente atuar como full stack e ser mais útil na minha equipe. 
 
 </div>
-<br
+<b
 
 
 <h1>Redes Sociais</h1>
