@@ -12,9 +12,9 @@
 
 📚 Estou cursando Analise e Desenvolvimento de Sistema..
 
-🌱 Estou estudando Web Design e UI/UX Design para uma boa desenvoltura..
-
 💬 E como objetivo futuramente atuar como full stack e ser mais útil na minha equipe. 
+
+🌱 Estou estudando Web Design e UI/UX Design para uma boa desenvoltura em meus projetos..
 
 </div>
 
