@@ -12,7 +12,7 @@
 
 📚 Estou cursando Analise e Desenvolvimento de Sistema..
 
-💬 E como objetivo futuramente quero desenvolver trabalhos como full stack..
+💬 E como objetivo futuramente quero atuar trabalhando como full stack..
 
 🌱 Estou estudando Web Design e UI/UX Design para uma boa desenvoltura em meus projetos..
 
