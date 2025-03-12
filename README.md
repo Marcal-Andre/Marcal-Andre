@@ -55,6 +55,7 @@
   <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="PHP" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PHP-Dark.svg">
+    <img align="center" alt="Firebase" height="40" width="40" src="https://github.com/LelouchFR/skill-icons/raw/main/assets/firebase.svg">
  <img align="center" alt="MySQL" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Dark.svg">
     <img align="center" alt="Bootstrap" height="40" width="40" src="https://github.com/LelouchFR/skill-icons/raw/main/assets/bootstrap.svg">
     <img align="center" alt="Python" height="40" width="40" src="https://github.com/LelouchFR/skill-icons/raw/main/assets/python-auto.svg">
