@@ -1,4 +1,4 @@
-<h1><b>Olá! Eu sou o André O. Marcal</b>b></h1>
+<h1><b>Olá 🖐️! Eu sou o André O. Marcal 👨‍💻</b></h1>
 
 <div align="left">
 😄 Pronomes: Ele/Dele. 
