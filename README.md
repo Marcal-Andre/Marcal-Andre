@@ -1,11 +1,11 @@
-<h1><b>Olá! Eu sou o André O. Marcal<b></h1>
+<h1><b>Olá! Eu sou o André O. Marcal</b>b></h1>
 
 <div align="left">
 😄 Pronomes: Ele/Dele. 
   
-🔭 Eu sou desenvolvedor Front-end..
+🔭 <b>Eu sou Desenvolvedor Web...</b>
 
-📚 Estou cursando Analise e Desenvolvimento de Sistema 3/5..
+📚 Academico em Analise e Desenvolvimento de Sistema 3/5..
 
 💬 E como objetivo futuramente quero atuar trabalhando como full stack..
 
