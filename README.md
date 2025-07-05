@@ -1,4 +1,39 @@
-<h1><b>Olá 🖐️! Eu sou o André O. Marcal 👨‍💻</b></h1>
+<h1><b id="typewriter"></b></h1>
+<script>
+const phrases = [
+    "Eu sou o André O. Marcal 👨‍💻",
+    
+];
+let currentPhrase = 0;
+let currentChar = 0;
+let isDeleting = false;
+let loopStart = 0;
+const typewriter = document.getElementById('typewriter');
+
+function type() {
+    const phrase = phrases[currentPhrase];
+    if (!isDeleting) {
+        typewriter.innerHTML = phrase.substring(0, currentChar + 1);
+        currentChar++;
+        if (currentChar === phrase.length) {
+            setTimeout(() => isDeleting = true, 1200);
+            setTimeout(type, 1200);
+            return;
+        }
+    } else {
+        typewriter.innerHTML = phrase.substring(0, currentChar - 1);
+        currentChar--;
+        if (currentChar === 2) { // "Eu"
+            isDeleting = false;
+            currentPhrase = (currentPhrase + 1) % phrases.length;
+            setTimeout(type, 800);
+            return;
+        }
+    }
+    setTimeout(type, isDeleting ? 60 : 100);
+}
+type();
+</script>
 
 <div align="left">
 
@@ -33,7 +68,7 @@
   </a>
 </div>
 
-###
+
 
 <br>
 <br>
@@ -44,7 +79,7 @@
 <br>
 
   <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40px" alt="html5 logo"  />_
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
@@ -71,7 +106,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-</div>
-
-###
-
