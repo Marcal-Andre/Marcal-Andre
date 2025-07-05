@@ -1,40 +1,17 @@
-<h1><b id="typewriter"></b></h1>
-<script>
-const phrases = [
-    "Eu sou o André O. Marcal 👨‍💻",
-    
-];
-let currentPhrase = 0;
-let currentChar = 0;
-let isDeleting = false;
-let loopStart = 0;
-const typewriter = document.getElementById('typewriter');
+<h1><b>Olá 🖐️! Eu sou o André O. Marcal 👨‍💻</b></h1>  
 
-function type() {
-    const phrase = phrases[currentPhrase];
-    if (!isDeleting) {
-        typewriter.innerHTML = phrase.substring(0, currentChar + 1);
-        currentChar++;
-        if (currentChar === phrase.length) {
-            setTimeout(() => isDeleting = true, 1200);
-            setTimeout(type, 1200);
-            return;
-        }
-    } else {
-        typewriter.innerHTML = phrase.substring(0, currentChar - 1);
-        currentChar--;
-        if (currentChar === 2) { // "Eu"
-            isDeleting = false;
-            currentPhrase = (currentPhrase + 1) % phrases.length;
-            setTimeout(type, 800);
-            return;
-        }
-    }
-    setTimeout(type, isDeleting ? 60 : 100);
-}
-type();
-</script>
+<div align="left">
 
+  
+🔭 <b>Eu sou Desenvolvedor Web...</b>
+
+📚 Academico em Analise e Desenvolvimento de Sistema 3/5..
+
+💬 E como objetivo futuramente quero atuar trabalhando como full stack..
+
+🌱 Estou estudando Web Design e UI/UX Design para uma boa desenvoltura em meus projetos..
+
+</div>
 <div align="left">
 
   
