@@ -1,17 +1,6 @@
 <h1><b>Olá 🖐️! Eu sou o André O. Marcal 👨‍💻</b></h1>  
 
-<div align="left">
 
-  
-🔭 <b>Eu sou Desenvolvedor Web...</b>
-
-📚 Academico em Analise e Desenvolvimento de Sistema 3/5..
-
-💬 E como objetivo futuramente quero atuar trabalhando como full stack..
-
-🌱 Estou estudando Web Design e UI/UX Design para uma boa desenvoltura em meus projetos..
-
-</div>
 <div align="left">
 
   
