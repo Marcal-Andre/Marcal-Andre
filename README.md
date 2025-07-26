@@ -6,7 +6,7 @@
   
 🔭 <b>Eu sou Desenvolvedor Web...</b>
 
-📚 Academico em Analise e Desenvolvimento de Sistema 3/5..
+📚 Academico em Analise e Desenvolvimento de Sistema 4/5..
 
 💬 E como objetivo futuramente quero atuar trabalhando como full stack..
 
