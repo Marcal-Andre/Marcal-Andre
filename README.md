@@ -1,6 +1,5 @@
 <h1><b>Olá 🖐️! Eu sou o André O. Marcal 👨‍💻</b></h1>  
 
-
 <div align="left">
 
   
