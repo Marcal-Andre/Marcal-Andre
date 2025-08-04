@@ -7,7 +7,7 @@
 
 📚 Academico em Analise e Desenvolvimento de Sistema 4/5...
 
-💬 E como objetivo futuramente quero atuar trabalhando como full stack..
+💬 E como objetivo futuramente quero atuar trabalhando como full stack...
 
 🌱 Estou estudando Web Design e UI/UX Design para uma boa desenvoltura em meus projetos..
 
