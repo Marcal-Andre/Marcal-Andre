@@ -2,7 +2,6 @@
 
 <div align="left">
 
-
 🔭 <b>Eu sou Desenvolvedor Web...</b>
 
 📚 Academico em Analise e Desenvolvimento de Sistema 4/5...
