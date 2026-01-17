@@ -13,6 +13,7 @@
 </div>
 
 <h1>Redes Sociais</h1>
+
 <div align="left">
   
   <a href="https://www.linkedin.com/in/andre-mar%C3%A7al-b506b7329/" target="_blank">
