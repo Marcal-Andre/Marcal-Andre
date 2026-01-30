@@ -2,7 +2,7 @@
 
 <div align="left">
 
-🔭 <b>Eu sou Desenvolvedor Front-End Jr...</b>
+🔭 <b>Desenvolvedor Front-End Jr...</b>
 
 📚 Academico em Analise e Desenvolvimento de Sistema 5/5...
 
